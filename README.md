@@ -11,3 +11,8 @@ This is a simple calendar project implemented using React and Redux Toolkit. The
 
 - Viewing other people's events:** Users can view other people's events, facilitating coordination and group planning.
 
+  <img src="/readme/login.png" alt="Login" width="400" > 
+  <img src="/readme/agenda.png" alt="Login" width="400" > 
+  <img src="/readme/crear-evento.png" alt="Login" width="400" > 
+  <img src="/readme/eventos.png" alt="Login" width="400" > 
+
