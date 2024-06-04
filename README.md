@@ -3,9 +3,9 @@ This is a simple calendar project implemented using React and Redux Toolkit. The
 
 ### Features
 
-- User Authentication:** Users can create a custom account and then login to access the app and manage their events securely.
+- User Authentication: Users can create a custom account and then login to access the app and manage their events securely.
 
-- Detailed calendar view:** Allows the user to view events and activities in a clean and organised calendar where you can change its appearance (diary, daily, weekly and monthly).
+- Detailed calendar view: Allows the user to view events and activities in a clean and organised calendar where you can change its appearance (diary, daily, weekly and monthly).
 
 - Add, edit and remove your own events:** Users can add new events to the calendar, as well as update and remove their own existing event details.
 
