@@ -11,4 +11,3 @@ This is a simple calendar project implemented using React and Redux Toolkit. The
 
 - Viewing other people's events:** Users can view other people's events, facilitating coordination and group planning.
 
-## Usage
